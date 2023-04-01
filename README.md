@@ -12,4 +12,4 @@ https://en.wikipedia.org/wiki/Brute-force_attack
 ##
 
 This project is for EDUCATIONAL PURPOSES ONLY.
-You are the only responsable for your actions!
+HACK AT YOUR OWN RISK
