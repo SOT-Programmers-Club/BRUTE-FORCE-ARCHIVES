@@ -11,5 +11,5 @@ https://en.wikipedia.org/wiki/Brute-force_attack
 
 ##
 
-This project is for EDUCATIONAL PURPOSES ONLY.
-💲: HACK AT YOUR OWN RISK
+This project is for EDUCATIONAL PURPOSES ONLY
+💲 HACK AT YOUR OWN RISK
